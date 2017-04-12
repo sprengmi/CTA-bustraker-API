@@ -1,4 +1,4 @@
-# CTA-bustraker-API
+# CTA-bustracker-API
 Simple Python interface to interact with the Chicago CTA Bus Tracker API.
 
 1: Given a CTA bus stop ID will display all available upcoming arrival times at that stop
