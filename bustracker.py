@@ -2,7 +2,8 @@ import json
 import time
 import requests
 
-_KEY = 'wJywQ5bPi2t5mpNBnkj6kf7UX'
+#http://www.transitchicago.com/developers/bustracker.aspx
+_KEY = 'xxxXXXxxx'
 
 def main():
 	print('Welcome to the CTA BusTracker API interface please select from the following options: ')
